@@ -1,8 +1,4 @@
 ### Setup: ###
-import os
-
-os.chdir(r"C:\Users\VladimirHazeleger\Documents\Repositories\Advent of Code 2025\Day 1")
-
 ### Read input: ###
 with open('input.txt') as f:
     input = f.read()
